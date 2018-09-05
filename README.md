@@ -1,1 +1,1 @@
-**strong** __ This file is mandatory in all Holberton School projects__
+1st reposiories
